@@ -11,7 +11,7 @@ from aiogram.filters import *
 from aiogram.enums import ParseMode
 import kb
 
-API_TOKEN = '5599967571:AAF_oNvUK3Ks66EZ0ZVPYEgiDRMcATkK3Xs'
+API_TOKEN = 'YOUR CODE HERE'
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API_TOKEN)
