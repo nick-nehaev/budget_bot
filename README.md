@@ -13,5 +13,5 @@ To do this, I decided to use the functionality of telegram bots. What you can fi
 - setting up daily reminders about daily expenses and balance status
 - the cherry on the cake is the ability to create graphs that take into account all entries made about income/expenses in the past and future, as well as all regular payments and 'spd'
 
-## To contributors
+## P.S.
 I strongly welcome any additions or changes to the code. The first version of the application I downloaded is still far from ideal
